@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/L-Garage/JunctionXAlgiers2023-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/L-Garage/JunctionXAlgiers2023-backend
